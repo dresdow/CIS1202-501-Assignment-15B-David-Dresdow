@@ -15,9 +15,9 @@ Requirements
 
     // Josh Junior
     
-   // CIS 1202 101
+    // CIS 1202 101
    
-   // January 31, 2021
+    // January 31, 2021
    
 8.	Submit the URL for your repository to the dropbox.  No screen shots are needed.
 Sample Output
