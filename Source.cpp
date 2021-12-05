@@ -22,3 +22,15 @@
 #include <cstdlib>
 
 using namespace std;
+
+template <class T>
+T half(T number)
+{
+    return number / 2.0;
+}
+
+
+int half(int number)
+{
+    return round((static_cast<float>(number)) / 2.0);
+}
