@@ -34,3 +34,19 @@ int half(int number)
 {
     return round((static_cast<float>(number)) / 2.0);
 }
+
+int main()
+{
+    double a = 7.0;
+    float b = 5.0f;
+    int c = 3;
+
+    cout << "\n" << half(a);
+    cout << "\n" << half(b);
+    cout << "\n" << half(c);
+
+
+    cout << "\n" << "\n";
+    system("pause");
+    return 0;
+}
