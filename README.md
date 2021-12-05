@@ -14,8 +14,11 @@ Requirements
 7.	Use comments to document your program as you see fit.  Include comments at the beginning of your program with your name, the class (with section), and the date.
 
     // Josh Junior
+    
    // CIS 1202 101
+   
    // January 31, 2021
+   
 8.	Submit the URL for your repository to the dropbox.  No screen shots are needed.
 Sample Output
 
